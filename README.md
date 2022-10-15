@@ -2,8 +2,23 @@
 
 ### Hi there 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![React](https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white)
+<!---
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
+
+![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+
+![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+
+![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+
+![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
+
+![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=EA4335)
 
 
 Here are some ideas to get you started:
@@ -16,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+--->
 
