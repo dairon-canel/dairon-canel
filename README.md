@@ -1,3 +1,5 @@
+![Brown and Gray Simple Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
+
 ### Hi there 👋
 
 <!--
