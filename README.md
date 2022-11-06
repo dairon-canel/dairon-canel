@@ -1,7 +1,7 @@
 ![Brown and Gray Simple Personal LinkedIn Banner](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dairon-canel/">
+  <a href="https://www.linkedin.com/in/dairon-canel/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
