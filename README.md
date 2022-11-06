@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+<a href="https://app.daily.dev/daironcanel"><img src="https://github.com/dairon-canel/dairon-canel/blob/master/devcard.svg" width="400" alt="Dairon Canel's Dev Card"/></a>
+
 <!---
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
