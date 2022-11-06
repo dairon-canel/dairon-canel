@@ -23,9 +23,10 @@
 - Loves a nice problem to solve
 
 <!---
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
+![Metrics](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/achievements.svg)
+
 
 
 ### Hi there 👋
