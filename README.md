@@ -8,7 +8,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/daironcanel" target="_blank">
     <img
       width="256"
       align="right"
