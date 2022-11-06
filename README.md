@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<a href="https://app.daily.dev/daironcanel"><img src="https://github.com/dairon-canel/dairon-canel/blob/master/devcard.svg" width="400" alt="Dairon Canel's Dev Card"/></a>
+<a href="https://app.daily.dev/daironcanel"><img src="https://github.com/dairon-canel/dairon-canel/blob/main/devcard.svg" width="400" alt="Dairon Canel's Dev Card"/></a>
 
 <!---
 
