@@ -1,10 +1,38 @@
-![Brown and Gray Simple Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
+![Brown and Gray Simple Personal LinkedIn Banner](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dairon-canel/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/dairon-canel/dairon-canel/blob/main/devcard.svg"
+    />
+  </a>
+</div>
+
+## Hi there 👋
+
+- Frontend engineer at [Gapcommerce](https://www.gapcommerce.com/)
+- Loves a nice problem to solve
+
+<!---
+![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)
+
 
 ### Hi there 👋
 
 <a href="https://app.daily.dev/daironcanel"><img src="https://github.com/dairon-canel/dairon-canel/blob/main/devcard.svg" width="400" alt="Dairon Canel's Dev Card"/></a>
 
-<!---
+
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
