@@ -1,13 +1,13 @@
-![Brown and Gray Simple Personal LinkedIn Banner](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
+![Banner](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
+
+<br>
+<p align="center">
+💻 I work on projects that help businesses build functional and dynamic e-commerce sites. I'm a fast learner and a problem-solver, and I enjoy collaborating with others to find creative solutions. In my free time, I love learning new technologies and playing music.
+</p>
+
+##
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dairon-canel/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
   <a href="https://api.daily.dev/daironcanel" target="_blank">
     <img
       width="256"
@@ -17,51 +17,79 @@
   </a>
 </div>
 
-## Hi there 👋
+<br>
 
-- Frontend engineer at [Gapcommerce](https://www.gapcommerce.com/)
-- Loves a nice problem to solve
+- 💼 Frontend engineer at [**Gapcommerce**](https://www.gapcommerce.com/).
 
-<!---
-![Metrics](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/dairon-canel/dairon-canel/github-metrics/achievements.svg)
+- 🌱 I’m currently learning **AI**.
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/RyuzakCoder)!.
+
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
+
+<br>
+
+## Goals
+
+- 📖 Improve **All** my skills.
+- 📖 Learn more about **AI**.
+- 📖 Improve my portfolio website.
+
+#
+
+<br>
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+  
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/RyuzakCoder)](https://www.frontendmentor.io/profile/RyuzakCoder)
+
+[![Linkedin: Dairon Canel](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dairon-canel)](https://www.linkedin.com/in/dairon-canel)
+  
+</div>
+
+<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Stats Overview](https://raw.githubusercontent.com/dairon-canel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/dairon-canel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</div>
+<br>
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=dairon-canel&theme=radical&hide_border=true" alt="DaironCanel" width="420"/>
+</p>
+</details>
 
-### Hi there 👋
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dairon-canel&theme=radical&no-frame=true&no-bg=true" alt="DaironCanel" />
+</p>
+</details>
 
-<a href="https://app.daily.dev/daironcanel"><img src="https://github.com/dairon-canel/dairon-canel/blob/main/devcard.svg" width="400" alt="Dairon Canel's Dev Card"/></a>
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dairon-canel&show_icons=true&theme=radical&count_private=true" alt="DaironCanel" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dairon-canel&layout=compact&theme=radical" alt="DaironCanel" height="165">
+</p>
+</details>
 
+<div align="right">
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dairon-canel.dairon-canel)
 
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
-
-![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-
-![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
-
-![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-
-![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)
-
-![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=EA4335)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
---->
-
+</div>
