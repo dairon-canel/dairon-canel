@@ -48,19 +48,20 @@
   
 </div>
 
+<!--- 
 <br>
 <h2 align="center">📊 Github Stats</h2>
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/dairon-canel/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/dairon-canel/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/dairon-canel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/dairon-canel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
 
 <br>
-
+-->
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
