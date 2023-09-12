@@ -21,8 +21,6 @@
 
 - 💼 Frontend engineer at [**Gapcommerce**](https://www.gapcommerce.com/).
 
-- 🌱 I’m currently learning **AI**.
-
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/RyuzakCoder)!.
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
@@ -32,7 +30,6 @@
 ## Goals
 
 - 📖 Improve **All** my skills.
-- 📖 Learn more about **AI**.
 - 📖 Improve my portfolio website.
 
 #
