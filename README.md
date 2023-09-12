@@ -58,7 +58,7 @@
 <br>
 
 <br>
--->
+
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 
@@ -91,3 +91,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dairon-canel.dairon-canel)
 
 </div>
+
+-->
