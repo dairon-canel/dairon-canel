@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dairon-canel.dairon-canel" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dairon-canel.dairon-canel" />
 
 <br>
 
