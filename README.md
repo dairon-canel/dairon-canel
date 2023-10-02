@@ -1,15 +1,9 @@
 ![Banner](https://user-images.githubusercontent.com/98697567/196007532-9f3ce12b-1a50-4e74-b9c2-f92d2ff7959d.png)
 
-<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dairon-canel.dairon-canel" />
 <p align="center">
 💻 I work on projects that help businesses build functional and dynamic e-commerce sites. I'm a fast learner and a problem-solver, and I enjoy collaborating with others to find creative solutions. In my free time, I love learning new technologies and playing music.
 </p>
-
-<div align="right">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dairon-canel.dairon-canel)
-
-</div>
 
 ##
 
