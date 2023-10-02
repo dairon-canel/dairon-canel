@@ -4,6 +4,8 @@
 💻 I work on projects that help businesses build functional and dynamic e-commerce sites. I'm a fast learner and a problem-solver, and I enjoy collaborating with others to find creative solutions. In my free time, I love learning new technologies and playing music.
 </p>
 
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=dairon-canel.dairon-canel" /></div>
+
 ##
 
 <div align="left">
@@ -24,7 +26,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dairon-canel.dairon-canel" />
+
 
 <br>
 
