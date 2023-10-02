@@ -5,6 +5,12 @@
 💻 I work on projects that help businesses build functional and dynamic e-commerce sites. I'm a fast learner and a problem-solver, and I enjoy collaborating with others to find creative solutions. In my free time, I love learning new technologies and playing music.
 </p>
 
+<div align="right">
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dairon-canel.dairon-canel)
+
+</div>
+
 ##
 
 <div align="left">
