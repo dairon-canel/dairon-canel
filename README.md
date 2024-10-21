@@ -27,7 +27,7 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
 
 
-
+<!--- 
 <br>
 
 ## Goals
@@ -36,13 +36,14 @@
 - 📖 Improve my portfolio website.
 
 #
+-->
 
 <br>
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
   
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/RyuzakCoder)](https://www.frontendmentor.io/profile/RyuzakCoder)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/dairon-canel)](https://www.frontendmentor.io/profile/dairon-canel)
 
 [![Linkedin: Dairon Canel](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dairon-canel)](https://www.linkedin.com/in/dairon-canel)
   
