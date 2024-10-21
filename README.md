@@ -28,19 +28,9 @@
 
 
 
-<br>
+<h2 align="left">📫 Connect with me</h2>
 
-## Goals
-
-- 📖 Improve **All** my skills.
-- 📖 Improve my portfolio website.
-
-#
-
-
-<h2 align="center">📫 Connect with me</h2>
-
-<div align = "center">
+<div align = "left">
   
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/dairon-canel)](https://www.frontendmentor.io/profile/dairon-canel)
 
