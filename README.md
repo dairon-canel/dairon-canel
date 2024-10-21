@@ -27,7 +27,7 @@
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NEXTJS**.
 
 
-<!--- 
+
 <br>
 
 ## Goals
@@ -36,9 +36,8 @@
 - 📖 Improve my portfolio website.
 
 #
--->
 
-<br>
+
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
